@@ -5,12 +5,36 @@
     <link>https://ffrankies.github.io/authors/</link>
       <atom:link href="https://ffrankies.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ffrankies.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://ffrankies.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Frank Wanye</title>
+      <link>https://ffrankies.github.io/authors/frank-wanye/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ffrankies.github.io/authors/frank-wanye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vitaliy Gleyzer</title>
+      <link>https://ffrankies.github.io/authors/vitaliy-gleyzer/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ffrankies.github.io/authors/vitaliy-gleyzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wu-chun Feng</title>
+      <link>https://ffrankies.github.io/authors/wu-chun-feng/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://ffrankies.github.io/authors/wu-chun-feng/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
